@@ -682,7 +682,9 @@ do
 				Text = text,
 				TextColor3 = Color3.fromRGB(0,0,255),
 				TextSize = 12,
-				TextTransparency = 0.10000000149012
+				TextTransparency = 0.10000000149012,
+				TextScaled = true,
+				TextWrapped = true
 			})
 		})
 		
