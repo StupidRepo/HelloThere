@@ -680,7 +680,7 @@ do
 				ZIndex = 3,
 				Font = Enum.Font.Gotham,
 				Text = text,
-				TextColor3 = Color3.fromRGB(0,0,255),
+				TextColor3 = Color3.fromRGB(127,127,127),
 				TextSize = 12,
 				TextTransparency = 0.10000000149012,
 				TextScaled = true,
