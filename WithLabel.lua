@@ -679,7 +679,7 @@ do
 				Size = UDim2.new(1, 0, 1, 0),
 				ZIndex = 3,
 				Font = Enum.Font.Gotham,
-				Text = title,
+				Text = text,
 				TextColor3 = themes.TextColor,
 				TextSize = 12,
 				TextTransparency = 0.10000000149012
