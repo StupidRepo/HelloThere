@@ -1,27 +1,28 @@
-{
+[
   {
     "date": "May 28 2022",
-    "changed": {
-      "Test",
-      "Testy",
-      "Zesty Testy"
+    "changed": [
+        "Test",
+        "Testy",
+        "Zesty Testy"
+      ]
     },
     {
       "date": "May 27 2022",
-      "changed": {
+      "changed": [
         "Your",
         "Life",
         "Has",
         "Changed",
         "!"
-      },
-      {
-        "date": "May 26 2022",
-        "changed": {
-          "Test",
-          "Testy",
-          "🥵 🥶"
-      },
-    }
+      ]
+    },
+    {
+      "date": "May 26 2022",
+      "changed": [
+      "Test",
+      "Testy",
+      "🥵 🥶"
+    ]
   }
-}
+]
